@@ -8,7 +8,10 @@ title: DREAM Project Site
 
 ## About Me
 
-My info goes here.
+**Name**: Geremy Paige
+**Education**: Bachelor's degree in Business Administration, currently pursuing a Master's degree in Computer Science.
+**Graduation**: Expected May 2025
+**Email**: gpaige@mines.edu
 
 ## About My Advisor
 
