@@ -6,6 +6,13 @@ title: DREAM Project Site
 * TOC
 {:toc}
 
+Welcome to my DREAM Project site. Here you will find information about my project, my advisor, and myself.
+
+- [About Me](about_me.md)
+- [About My Advisor](about_advisor.md)
+- [About My Project](about_project.md)
+
+
 ## About Me
 
 My name is Geremy Paige. I am a graduate student at the Colorado School of Mines, studying Computer Science in the Bridge @Mines program. I come from a background in Business Administration and hold an MBA. Following the onset of the COVID-19 pandemic, I switched my focus to computer science after recognizing the vast opportunities in technology, particularly through remote work and the innovation that technology brings.
